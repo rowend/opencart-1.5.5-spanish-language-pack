@@ -6,8 +6,8 @@ $_['heading_title']      = 'Fabricante';
 $_['text_success']       = 'Éxito: has modificado a los fabricantes!';
 $_['text_default']       = 'Por defecto';
 $_['text_image_manager'] = 'Gestor de imágenes';
-$_['text_browse']        = 'Examinar Archivos';
-$_['text_clear']         = 'Eliminar Imagen';
+$_['text_browse']        = 'Examinar';
+$_['text_clear']         = 'Limpiar';
 $_['text_percent']       = 'Porcentaje';
 $_['text_amount']        = 'Cantidad fija';
 
