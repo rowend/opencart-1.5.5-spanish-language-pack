@@ -17,8 +17,8 @@ $_['text_date']           = 'Fecha';
 $_['text_datetime']       = 'Fecha &amp; Hora';
 $_['text_time']           = 'Hora';
 $_['text_image_manager']  = 'Gestor de Imágenes';
-$_['text_browse']         = 'Examinar Archivos';
-$_['text_clear']          = 'Eliminar Imágen';
+$_['text_browse']         = 'Examinar';
+$_['text_clear']          = 'Limpiar';
 
 // Column
 $_['column_name']         = 'Option Name';
@@ -28,7 +28,7 @@ $_['column_action']       = 'Action';
 // Entry
 $_['entry_name']         = 'Nombre de la opción:';
 $_['entry_type']         = 'Tipo:';
-$_['entry_value']        = 'Nombre del valor de la Opción:';
+$_['entry_option_value'] = 'Nombre del valor de la Opción:';
 $_['entry_image']        = 'Imagen:';
 $_['entry_sort_order']   = 'Orden de aparición:';
 
