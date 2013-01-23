@@ -11,7 +11,7 @@ $_['text_column_left']    = 'Columna izquierda';
 $_['text_column_right']   = 'Columna derecha';
 
 // Entry
-$_['entry_code']          = 'Código de Google Talk:<br /><span class="help">Dirígete a <a onclick="window.open(\'http://www.google.com/talk/service/badge/New\');"><u>Crea una tarjeta de identificación de Google Talk Chatback</u></a> y copia &amp; pega el código generado en la casilla..</span>';
+$_['entry_code']          = 'Código de Google Talk:<br /><span class="help">Dirígete a <a href="http://www.google.com/talk/service/badge/New" target="_blank"><u>Crea una tarjeta de identificación de Google Talk Chatback</u></a> y copia &amp; pega el código generado en la casilla..</span>';
 $_['entry_layout']        = 'Diseño:';
 $_['entry_position']      = 'Posición:';
 $_['entry_status']        = 'Estado:';
