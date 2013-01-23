@@ -13,7 +13,7 @@ $_['text_column_right']   = 'Columna derecha';
 // Entry
 $_['entry_product']       = 'Productos:<br /><span class="help">(Autocompleta)</span>';
 $_['entry_limit']         = 'Limite:';
-$_['entry_image']         = 'Imagen (Ancho x Alto):';
+$_['entry_image']         = 'Imagen (Ancho x Alto) y Tipo de cambio:';
 $_['entry_layout']        = 'Diseño:';
 $_['entry_position']      = 'Posición:';
 $_['entry_status']        = 'Estado:';
