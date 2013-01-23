@@ -11,7 +11,7 @@ $_['text_off']           = 'Inactiva';
 
 // Entry
 $_['entry_merchant']     = 'ID del mercante:';
-$_['entry_password']     = 'PContraseña de respuesta de pago:<br /><span class="help">Esta tiene que configurarse en el panel de control de WordPay.</span>';
+$_['entry_password']     = 'Contraseña de respuesta de pago:<br /><span class="help">Esta tiene que configurarse en el panel de control de WordPay.</span>';
 $_['entry_callback']     = 'URL de trasmisión de respuesta:<br /><span class="help">Esta tiene que configurarse en el panel de control de WordPay. También necesitarás activar "Enable the Shopper Response".</span>';
 $_['entry_test']         = 'Modo Prueba:';
 $_['entry_total']        = 'Total:<br /><span class="help">El total de la orden de pago debe llegar antes de que este método de pago sea activado.</span>';
