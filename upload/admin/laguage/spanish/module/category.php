@@ -13,7 +13,6 @@ $_['text_column_right']   = 'Columna derecha';
 // Entry
 $_['entry_layout']        = 'Diseño:';
 $_['entry_position']      = 'Posición:';
-$_['entry_count']    	  = 'Conteo del Producto:';
 $_['entry_status']        = 'Estado:';
 $_['entry_sort_order']    = 'Orden de aparición:';
 
