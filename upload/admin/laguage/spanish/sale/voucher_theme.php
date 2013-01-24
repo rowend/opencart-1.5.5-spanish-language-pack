@@ -5,7 +5,7 @@ $_['heading_title']      = 'Temas para vales';
 // Text
 $_['text_success']       = 'Éxito: has modificado temas de vale!';
 $_['text_image_manager'] = 'Gestor de imágenes';
-$_['text_browse']        = 'Examinar Archivos';
+$_['text_browse']        = 'Examinar';
 $_['text_clear']         = 'Limpiar Imagen';
 
 // Column
