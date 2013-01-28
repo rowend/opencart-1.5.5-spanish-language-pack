@@ -10,8 +10,8 @@ $_['text_account']                 = 'Cuenta';
 $_['text_checkout']                = 'Compra';
 $_['text_stock']                   = 'Stock';
 $_['text_image_manager']           = 'Gestor de imágenes';
-$_['text_browse']                  = 'Examinar Archivos';
-$_['text_clear']                   = 'Limpiar Imágen';
+$_['text_browse']                  = 'Examinar';
+$_['text_clear']                   = 'Limpiar';
 $_['text_shipping']                = 'Dirección de Envío';
 $_['text_payment']                 = 'Dirección de Pagos';
 
@@ -62,7 +62,7 @@ $_['entry_image_related']          = 'Tamaño de las imágenes de productos rela
 $_['entry_image_compare']          = 'Tamaño de la imagen de comparar:';
 $_['entry_image_wishlist']         = 'Tamaño de la imagen de la lista de deseos:';
 $_['entry_image_cart']             = 'Tamaño de la imagen del carrito:';
-$_['entry_use_ssl']                = 'Usar SSL:<br /><span class="help">Para usar SSL comprueba si el servidor tiene un certificado SSL instalado.</span>';
+$_['entry_secure']                = 'Usar SSL:<br /><span class="help">Para usar SSL comprueba si el servidor tiene un certificado SSL instalado.</span>';
 
 // Error
 $_['error_warning']                = 'Cuidado: Por favor comprueba que el formulario no contenga errores!';
