@@ -1,5 +1,5 @@
 <?php
-// Heading 
+// Heading
 $_['heading_title']      = 'Devolución de producto';
 
 // Text
@@ -19,7 +19,7 @@ $_['text_customer']      = 'Cliente:';
 $_['text_comment']       = 'Comentarios de devolución';
 $_['text_history']       = 'Historial de devoluciones';
 $_['text_empty']         = 'No has hecho ningún devolución de pedido previamente!';
-$_['text_error']         = 'Tu petición de devolución no ha sido encontrada!';
+$_['text_agree']         = 'He leido y aceptado <a class="colorbox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Column
 $_['column_product']     = 'Nombre del producto';
@@ -49,6 +49,7 @@ $_['entry_fault_detail'] = 'Fallo u otros detalles:';
 $_['entry_captcha']      = 'Introduce el código en la casilla inferior:';
 
 // Error
+$_['text_error']         = 'Las devoluaciones que has solicitadas no pueden ser encontradas!';
 $_['error_order_id']     = 'ID del pedido obligatorio!';
 $_['error_firstname']    = 'El nombre debe tener entre 1 y 32 carácteres!';
 $_['error_lastname']     = 'El apellido/s debe tener entre 1 y 32 carácteres!';
@@ -58,4 +59,5 @@ $_['error_product']      = 'El nombre de producto debe tener más de 3 y menos d
 $_['error_model']        = 'l modelo de producto debe tener más de 3 y menos de 64 carácteres!';
 $_['error_reason']       = 'Debes seleccionar una razón de devolución del producto!';
 $_['error_captcha']      = 'El código de verificación no coincide con la imagen!';
+$_['error_agree']        = 'Cuidado: Ustede debe aceptar %s!';
 ?>
