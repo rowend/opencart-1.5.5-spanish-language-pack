@@ -13,17 +13,17 @@ $_['text_day']            = 'Dia';
 $_['text_comment']        = 'Klarna\'s Factura ID: %s\n%s/%s: %.4f';
 
 // Entry
-$_['entry_gender']         = 'Gender:';
-$_['entry_pno']            = 'Personal Number:<br /><span class="help">Please enter your Social Security number here.</span>';
-$_['entry_dob']            = 'Date of Birth:';
-$_['entry_phone_no']       = 'Phone number:<br /><span class="help">Please enter your phone number.</span>';
-$_['entry_street']         = 'Street:<br /><span class="help">Please note that delivery can only take place to the registered address when paying with Klarna.</span>';
-$_['entry_house_no']       = 'House No.:<br /><span class="help">Please enter your house number.</span>';
-$_['entry_house_ext']      = 'House Ext.:<br /><span class="help">Please submit your house extension here. E.g. A, B, C, Red, Blue ect.</span>';
-$_['entry_company']        = 'Company Registration Number:<br /><span class="help">Please enter your Company\'s registration number</span>';
+$_['entry_gender']         = 'Genero:';
+$_['entry_pno']            = 'Numero Personal:<br /><span class="help">Introducir Tu número de seguirdad social.</span>';
+$_['entry_dob']            = 'Fecha de nacimiento:';
+$_['entry_phone_no']       = 'Número Telefonico:<br /><span class="help">Introduce tu número telefonico.</span>';
+$_['entry_street']         = 'Calle:<br /><span class="help">Notar las entregas solo pueden la dirección registrada cuando se paga con Klarna.</span>';
+$_['entry_house_no']       = 'Número de Casa.:<br /><span class="help">Introduce tu Número de casa.</span>';
+$_['entry_house_ext']      = 'Número de extensión de casa:<br /><span class="help">Introduce tu número de extensión de casa E.g. A, B, C, Red, Blue ect.</span>';
+$_['entry_company']        = 'Número de registro de la compañia:<br /><span class="help">Introduce tu número de registro de tu compañia </span>';
 
 // Error
-$_['error_deu_terms']     = 'You must agree to Klarna\'s privacy policy (Datenschutz)';
-$_['error_address_match'] = 'Billing and Shipping addresses must match if you want to use Klarna Invoice';
-$_['error_network']       = 'Error occurred while connecting to Klarna. Please try again later.';
+$_['error_deu_terms']     = 'Debes estar de acuerdo con las politicas de Klarna\'s';
+$_['error_address_match'] = 'La dirección de compra y envio deben conincidir si tu quieres usar Factura Klarna';
+$_['error_network']       = 'Ocurrio un error mientras se conecta con Klarna. Trate de nuevo.';
 ?>
